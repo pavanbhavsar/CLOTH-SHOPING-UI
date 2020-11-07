@@ -1,2 +1,2 @@
-# CLOTH-SHOPING-UI
+# FASHIOISTA
 An elegant, simple and eye-catching design for CLOTH SHOPPING.
